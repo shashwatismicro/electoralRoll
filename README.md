@@ -45,7 +45,7 @@ To run the script:
 python main.py
 ```
 
-### `final-main.py`
+### `electoralRoll`
 
 This file uses Tesseract OCR to automatically attempt CAPTCHA solving. It works inconsistently, as Tesseract sometimes fails to correctly recognize the CAPTCHA text. You can run this version to attempt automatic CAPTCHA solving, but manual intervention may still be required in some cases.
 
